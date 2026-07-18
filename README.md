@@ -4,7 +4,7 @@
 
 A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, Bootstrap, and JavaScript**.
 
-## ✨ Features
+## Features
 
 - Add Tasks
 - Update Tasks
