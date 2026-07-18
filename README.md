@@ -1,6 +1,6 @@
 # To-Do-Application-Using-Web-Spring
 
-# 🚀 Smart To-Do Manager
+#  Smart To-Do Manager
 
 A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, Bootstrap, and JavaScript**.
 
@@ -15,7 +15,7 @@ A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, B
 - Task Categories & Priority
 - Due Date Support
 
-## 🛠️ Technologies
+##  Technologies
 
 - Java
 - Spring Boot
@@ -24,7 +24,7 @@ A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, B
 - Bootstrap
 - HTML, CSS, JavaScript
 
-## ▶️ Run the Project
+## Run the Project
 
 1. Clone the repository.
 2. Create a MySQL database.
@@ -32,6 +32,6 @@ A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, B
 4. Run the Spring Boot application.
 5. Open `http://localhost:8080`.
 
-## 📌 Author
+##  Author
 
-**Abhishek Suhas Ghadge**
+**Abhishek Ghadge**
