@@ -1,7 +1,6 @@
 # To-Do-Application-Using-Web-Spring
 
 #  Smart To-Do Manager
-
 A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, Bootstrap, and JavaScript**.
 
 ## Features
@@ -32,6 +31,5 @@ A simple To-Do Manager built using **Spring Boot, Thymeleaf, MySQL, HTML, CSS, B
 4. Run the Spring Boot application.
 5. Open `http://localhost:8080`.
 
-##  Author
-
+##  Developed By
 **Abhishek Ghadge**
